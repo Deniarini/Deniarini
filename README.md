@@ -38,7 +38,6 @@ Saya memiliki semangat belajar tinggi dan siap berkembang di dunia profesional s
 
 ### 📫 Kontak Saya
 - 📧 Email: nimadedeniarini1309@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/deniarini](https://linkedin.com/in/deniarini) *(kalau udah punya yaa)*
 - 📍 Lampung, Indonesia
 
 ---
