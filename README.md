@@ -32,7 +32,7 @@ Saya memiliki semangat belajar tinggi dan siap berkembang di dunia profesional s
 - Penyimpanan data ke database
 - Tampilan data siswa
 
-📂 [Lihat Repository](https://github.com/Deniarini/sd-pendaftaran) 
+📂 [Lihat Repository]https://github.com/Deniarini/formulir-sd-nusantara
 
 ---
 
